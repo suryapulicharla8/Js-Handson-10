@@ -1,0 +1,14 @@
+p {
+    color:darkgreen;
+    /* background-color: blue; */
+    background-color: azure;
+}
+pre {
+    color: red;
+    background-color: black;
+}
+pre:hover {
+    transform: translateX(50px);
+    background-color: gold;
+    color: black;
+}
